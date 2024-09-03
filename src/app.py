@@ -1,0 +1,2 @@
+def funnc():
+    print("Demo")
